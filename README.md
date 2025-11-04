@@ -2,97 +2,32 @@
 ### Soluciones reales de TI con alto grado de personalización y relación con el cliente.
 
 ---
+# ⚙️ Áreas de Especialización
 
-## 📘 Introducción
-En **Deepmake**, nos especializamos en ofrecer **soluciones tecnológicas personalizadas** para empresas, startups y pymes del sector productivo y de servicios.  
-Nuestro enfoque combina **automatización operativa (50%)** y **análisis estratégico (50%)**, permitiendo a las organizaciones **optimizar sus procesos y tomar decisiones basadas en datos**.
-
-Trabajamos por proyecto, con una metodología ágil, entregando **prototipos en 3 a 4 semanas**, seguidos de una **etapa de prueba** adaptada a cada caso.
-
----
-
-## ⚙️ Áreas de Especialización
-
-- **Analítica de datos y Business Intelligence**  
-  Complementado con modelos predictivos de Machine Learning.  
-
-- **Integraciones y automatizaciones de sistemas de gestión**  
-  (CRM, ERP, Finanzas, Operaciones) con IA y softwares de integración como Make, N8N, langchain, entre otros..  
-
-- **Inteligencia Artificial aplicada**  
-  Chatbots, agentes conversacionales, recepcionistas, calificadores de leads y herramientas personalizadas.  
-
-- **Diseño y desarrollo web**  
-  Sitios, productos digitales, MVP y herramientas integradas con IA.  
-
-- **Análisis financiero avanzado**  
-  Con análisis de sensibilidad e investigación de mercado.  
+*   **Analítica de Datos y Business Intelligence**
+    *   Nuestro equipo cuenta con personal especializado en analítica avanzada y Machine Learning, lo que nos permite generar modelos predictivos de alta precisión y transformar tus datos en información estratégica para la toma de decisiones.
+*   **Integración y Automatización de Procesos con IA**
+    *   Nos integramos a tus sistemas de gestión (CRM, ERP, etc.) para generar sistemas de automatización eficientes basados en Javascript y tecnologías de integración como N8N, añadiendo la potencia de la Inteligencia Artificial a tus flujos de trabajo.
+*   **Inteligencia Artificial Aplicada al Negocio**
+    *   Generamos agentes conversacionales que se adecuan a tu embudo de ventas, recepcionistas virtuales, calificadores de leads, y otras herramientas personalizadas, optimizando la interacción con tus clientes y la gestión interna.
+*   **Diseño y Desarrollo Web y Herramientas Digitales**
+    *   Desarrollamos sitios web, productos digitales y herramientas personalizadas con un enfoque en la experiencia de usuario, integrando soluciones de IA para potenciar la funcionalidad y la interacción con tus clientes.
+*   **Análisis Financiero Avanzado**
+    *   Ofrecemos análisis de sensibilidad, estudios de mercado y proyecciones económico-financieras para evaluar la viabilidad de tus proyectos, minimizando riesgos y asegurando la rentabilidad de tus inversiones.
+*   **Capacitación y Asesoría en Implementación de IA**
+    *   Proporcionamos programas de capacitación y consultoría especializada para empresas que desean integrar y aplicar internamente la Inteligencia Artificial y tecnologías de la información, empoderando a sus equipos para impulsar la innovación desde dentro.
 
 ---
 
-## 📊 Entregables Principales
+# 📊 Entregables Principales
 
-| Entregable | Descripción | Tiempo estimado | Rango base (CLP) |
-|-------------|--------------|------------------|------------------|
-| **Dashboard e informes financieros** | Desarrollo de paneles en Power BI o Excel con KPIs y análisis interactivo. | 3-4 semanas | $250.000 – $400.000 | 
-| **Modelos predictivos en Python** | Modelos de clasificación, predicción de demanda o scoring de clientes. | 3-5 semanas | $350.000 – $600.000 | 
-| **Integraciones de sistemas con n8n** | Automatización de flujos CRM, ERP o Finanzas con APIs. | 2-4 semanas | $300.000 – $500.000 | 
-| **Chatbots y automatizaciones IA** | Agentes de atención al cliente, ventas o soporte con IA personalizada. | 3-5 semanas | desde $300.000 | 
-| **Informes de control de gestión** | Reportes de procesos y métricas clave de eficiencia operativa. | 3-4 semanas | $250.000 – $400.000 |
-| **Estudios de factibilidad de proyectos** | Proyecciones económico-financieras y análisis de viabilidad. | 4-6 semanas | $400.000 – $700.000 |
-| **Productos digitales (Web / MVP)** | Páginas web, herramientas o prototipos digitales con IA. | 3-5 semanas | desde $350.000  |
-
----
-
-## 🔧 Servicios Opcionales
-
-| Servicio | Descripción | Precio mensual |
-|-----------|--------------|----------------|
-| **Mantenimiento técnico y soporte** | Revisión, ajustes menores y soporte de atención personalizada. | $25.000 CLP / 25 USD |
-| **Optimización y mejoras continuas** | Implementación de nuevas funcionalidades o KPIs. | Según requerimiento |
-| **Alojamiento y APIs** | Costo adicional según proveedor. | Variable |
-
----
-
-## 💼 Modelos de Negocios
-
-### 🔹 Opción 1: Subcontrato Independiente
-- El **socio comercial** gestiona directamente la relación con el cliente.  
-- **Deepmake** actúa como **proveedor técnico** del servicio.  
-- El canal factura al cliente y paga a Deepmake un **porcentaje acordado del valor total del proyecto**.  
-- Permite autonomía total al canal para cerrar acuerdos.    
-
-**Ventajas:**  
-✔ Rapidez comercial y flexibilidad.  
-✔ Ideal para canales con base de clientes activa.  
-✔ Reduce la carga de gestión directa por parte de Deepmake.  
-
----
-
-### 🔹 Opción 2: Colaboración Integrada
-- Deepmake participa directamente en la **negociación, diseño y seguimiento del proyecto**.  
-- Actuamos como **socio estratégico**.
-- **Margen compartido** según nivel de involucramiento.  
-
-**Ventajas:**  
-✔ Mayor calidad técnica y alineación con el cliente.  
-✔ Recomendado para proyectos complejos o personalizados.  
-✔ Refuerza la imagen conjunta del canal + Deepmake.  
-
----
-
-## 💲 Política de Precios y Margen
- 
-- Los valores pueden variar según:
-  - Complejidad técnica.
-  - Nivel de personalización.
-  - Tiempo estimado de desarrollo.  
-- Todos los proyectos incluyen una **fase de prototipo** (3-4 semanas) y una **etapa de prueba** ajustada a cada caso.
-
----
-
-## 🤝 Filosofía de Trabajo
-En Deepmake creemos en relaciones a largo plazo con nuestros clientes y socios comerciales.  
-No solo entregamos soluciones, sino **alianzas tecnológicas sostenibles**, donde cada implementación se adapta a las metas y capacidades del negocio.
-
----
+| Entregable                                      | Descripción                                                                                                                                                                                                                                          | Rango base (CLP) |
+| :---------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------- |
+| Estrategia de Datos y Roadmap Digital           | Definición de una estrategia de datos unificada. Incluye el diagnóstico de madurez digital y el plan de implementación (Roadmap) de las soluciones de Analítica, IA y Automatización.                                                                   | Desde $450.000   |
+| Reportes de Gestión y Business Intelligence (BI) | Conexión a sistemas, definición de KPIs clave, y desarrollo de paneles (Power BI, Excel) e informes para la eficiencia operativa y toma de decisiones.                                                                                                | Desde $250.000   |
+| Modelos de Predicción Avanzada (Machine Learning) | Creación de modelos en Python para: Predicción de demanda/ventas (forecast), scoring y segmentación de clientes, y automatización de decisiones de negocio.                                                                                            | Desde $350.000   |
+| Auditoría y Automatización de Flujos              | Auditoría de procesos repetitivos. Identificación e implementación de flujos automatizados de bajo costo para conectar sistemas (CRM, ERP, etc.) vía APIs.                                                                                        | Desde $300.000   |
+| Sistemas de Agentes Conversacionales (Ventas y Soporte) | Diseño e implementación de agentes de IA para calificación de leads, atención al cliente y soporte. Incluye la integración con el embudo de ventas, CRM y email marketing.                                                                        | Desde $300.000   |
+| Estudios de Viabilidad y Planificación Financiera | Proyecciones económico-financieras, análisis de viabilidad de proyectos, y estructuración de la planificación financiera estratégica.                                                                                                            | Desde $400.000   |
+| Páginas Web y Prototipos Digitales              | Desarrollo de sitios web, landing pages y prototipos (Herramientas Digitales) con un enfoque en la experiencia de usuario y, opcionalmente, IA integrada.                                                                                            | Desde $350.000   |
+| Capacitación y Consultoría en IA              | Programas personalizados de formación y asesoramiento técnico para equipos internos, facilitando la adopción e implementación de soluciones de IA y TI dentro de la organización, con un enfoque práctico y orientado a resultados. | Desde $500.000   |
