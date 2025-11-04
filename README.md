@@ -13,7 +13,7 @@
     *   Desarrollamos sitios web, productos digitales y herramientas personalizadas con un enfoque en la experiencia de usuario, integrando soluciones de IA para potenciar la funcionalidad y la interacción con tus clientes.
 *   **Análisis Financiero Avanzado**
     *   Ofrecemos análisis de sensibilidad, estudios de mercado y proyecciones económico-financieras para evaluar la viabilidad de tus proyectos, minimizando riesgos y asegurando la rentabilidad de tus inversiones.
-*   **Capacitación y Asesoría en Implementación de IA**
+*   **Capacitación en Implementación de IA**
     *   Proporcionamos programas de capacitación y consultoría especializada para empresas que desean integrar y aplicar internamente la Inteligencia Artificial y tecnologías de la información, empoderando a sus equipos para impulsar la innovación desde dentro.
 
 ---
@@ -25,6 +25,8 @@
 | Estrategia de Datos y Roadmap Digital           | Definición de una estrategia de datos unificada. Incluye el diagnóstico de madurez digital y el plan de implementación (Roadmap) de las soluciones de Analítica, IA y Automatización.                                                                   |
 | Reportes de Gestión y Business Intelligence (BI) | Conexión a sistemas, definición de KPIs clave, y desarrollo de paneles (Power BI, Excel) e informes para la eficiencia operativa y toma de decisiones.                                                                                                |
 | Modelos de Predicción Avanada (Machine Learning) | Creación de modelos en Python para: Predicción de demanda/ventas (forecast), scoring y segmentación de clientes, y automatización de decisiones de negocio.                                                                                            |
-| Auditoría y Automatización de Flujos              | Auditoría de procesos repetitivos. Identificación e implementación de flujos automatizados de bajo costo para conectar sistemas (CRM, ERP, etc.) vía APIs.                                                                                        |
+| Auditoría de flujos de trabajo y procesos TI              | Auditoría de procesos repetitivos. Identificación                                                                                        |
+| Automatización de Flujos de Trabajo              | Implementación de flujos automatizados para conectar sistemas (CRM, ERP, etc.)                                                                                        |
+| Capacitaciones en procesos TI e Implementación de IA             |                                                                                         |
 | Sistemas de Agentes Conversacionales (Ventas y Soporte) | Diseño e implementación de agentes de IA para calificación de leads, atención al cliente y soporte. Incluye la integración con el embudo de ventas, CRM y email marketing.                                                                        |
 | Estudios de Viabilidad y Planificación Financiera | Proyecciones económico-financieras, análisis de viabilidad de proyectos, y estructuración de la planificación financiera estratégica.
