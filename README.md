@@ -1,7 +1,6 @@
 # 🧠 **Catálogo de Servicios - Deepmake**
 ### Soluciones reales de TI con alto grado de personalización y relación con el cliente.
 
----
 # ⚙️ Áreas de Especialización
 
 *   **Analítica de Datos y Business Intelligence**
@@ -21,13 +20,11 @@
 
 # 📊 Entregables Principales
 
-| Entregable                                      | Descripción                                                                                                                                                                                                                                          | Rango base (CLP) |
-| :---------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------- |
-| Estrategia de Datos y Roadmap Digital           | Definición de una estrategia de datos unificada. Incluye el diagnóstico de madurez digital y el plan de implementación (Roadmap) de las soluciones de Analítica, IA y Automatización.                                                                   | Desde $450.000   |
-| Reportes de Gestión y Business Intelligence (BI) | Conexión a sistemas, definición de KPIs clave, y desarrollo de paneles (Power BI, Excel) e informes para la eficiencia operativa y toma de decisiones.                                                                                                | Desde $250.000   |
-| Modelos de Predicción Avanzada (Machine Learning) | Creación de modelos en Python para: Predicción de demanda/ventas (forecast), scoring y segmentación de clientes, y automatización de decisiones de negocio.                                                                                            | Desde $350.000   |
-| Auditoría y Automatización de Flujos              | Auditoría de procesos repetitivos. Identificación e implementación de flujos automatizados de bajo costo para conectar sistemas (CRM, ERP, etc.) vía APIs.                                                                                        | Desde $300.000   |
-| Sistemas de Agentes Conversacionales (Ventas y Soporte) | Diseño e implementación de agentes de IA para calificación de leads, atención al cliente y soporte. Incluye la integración con el embudo de ventas, CRM y email marketing.                                                                        | Desde $300.000   |
-| Estudios de Viabilidad y Planificación Financiera | Proyecciones económico-financieras, análisis de viabilidad de proyectos, y estructuración de la planificación financiera estratégica.                                                                                                            | Desde $400.000   |
-| Páginas Web y Prototipos Digitales              | Desarrollo de sitios web, landing pages y prototipos (Herramientas Digitales) con un enfoque en la experiencia de usuario y, opcionalmente, IA integrada.                                                                                            | Desde $350.000   |
-| Capacitación y Consultoría en IA              | Programas personalizados de formación y asesoramiento técnico para equipos internos, facilitando la adopción e implementación de soluciones de IA y TI dentro de la organización, con un enfoque práctico y orientado a resultados. | Desde $500.000   |
+| Entregable                                      | Descripción                                                                                                                                                                                                                                          |
+| :---------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Estrategia de Datos y Roadmap Digital           | Definición de una estrategia de datos unificada. Incluye el diagnóstico de madurez digital y el plan de implementación (Roadmap) de las soluciones de Analítica, IA y Automatización.                                                                   |
+| Reportes de Gestión y Business Intelligence (BI) | Conexión a sistemas, definición de KPIs clave, y desarrollo de paneles (Power BI, Excel) e informes para la eficiencia operativa y toma de decisiones.                                                                                                |
+| Modelos de Predicción Avanada (Machine Learning) | Creación de modelos en Python para: Predicción de demanda/ventas (forecast), scoring y segmentación de clientes, y automatización de decisiones de negocio.                                                                                            |
+| Auditoría y Automatización de Flujos              | Auditoría de procesos repetitivos. Identificación e implementación de flujos automatizados de bajo costo para conectar sistemas (CRM, ERP, etc.) vía APIs.                                                                                        |
+| Sistemas de Agentes Conversacionales (Ventas y Soporte) | Diseño e implementación de agentes de IA para calificación de leads, atención al cliente y soporte. Incluye la integración con el embudo de ventas, CRM y email marketing.                                                                        |
+| Estudios de Viabilidad y Planificación Financiera | Proyecciones económico-financieras, análisis de viabilidad d
