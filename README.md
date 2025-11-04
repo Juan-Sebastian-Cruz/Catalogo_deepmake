@@ -2,64 +2,24 @@
 
 # 📊 Entregables Principales
 
-| Categoría de Servicio                   | Entregable                                                    | Descripción                                                                                                                                                                                                                                          |
-| :-------------------------------------- | :------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Auditorías de Procesos TI y Flujos de Trabajo** | Auditoría Express de Oportunidades de Automatización          | Un análisis rápido de 3-5 procesos clave del cliente para identificar el potencial de automatización con IA y estimar un ROI inicial. (Producto de entrada, rápido de vender).                                                            |
-|                                         | Auditoría Integral de Ecosistema Digital                      | Evaluación completa de los sistemas de gestión, flujos de trabajo, uso de datos y madurez digital de la empresa, culminando en un "roadmap" de optimización y automatización con IA.                                                    |
-| **Productos de IA para la Eficiencia Empresarial** | Agente Recepcionista Virtual (Voz/Chat) con Gestión de Calendarios | Asistente de IA que atiende llamadas/chats para agendamiento, confirmación de reservas y consultas de servicios, integrándose con calendarios y CRM. Objetivo: Liberar personal y optimizar la gestión de citas 24/7.                           |
-|                                         | Agente Calificador de Leads con IA (Voz/Chat)                 | Sistema de IA que, al recibir un lead, interactúa instantáneamente (llamada/chat) para verificar su potencial, consultar parámetros clave y calificar su calidad antes de pasarlo a ventas. Objetivo: Aumentar la conversión de leads. |
-|                                         | Chatbot de Atención al Cliente y Soporte 24/7 (Web/Canales)   | Chatbot de IA en web/canales para clientes/colaboradores que resuelve consultas frecuentes, guía en procesos simples y automatiza soporte de primer nivel. Objetivo: Reducir tickets y mejorar satisfacción 24/7.                           |
-|                                         | Sistema Automatizado de Digitalización y Extracción de Datos de Documentos (OCR/IA) | Solución de OCR y IA que escanea, lee y extrae información estructurada de documentos repetitivos, validando e integrando datos en sistemas de gestión. Objetivo: Eliminar ingreso manual y mantener bases de datos actualizadas.         |
-|                                         | Sistema Inteligente de Clasificación y Routing de Emails/Tickets (IA/NLP) | Sistema de IA que analiza el contenido de emails/tickets entrantes, los clasifica por tema/urgencia y los direcciona al equipo adecuado, o sugiere respuestas. Objetivo: Optimizar flujo de comunicación y tiempos de respuesta.         |
-| **Analítica de Datos y Business Intelligence** | Estrategia de Datos y Roadmap Digital                         | Definición de una estrategia de datos unificada. Incluye el diagnóstico de madurez digital y el plan de implementación (Roadmap) de las soluciones de Analítica, IA y Automatización.                                                      |
-|                                         | Reportes de Gestión y Business Intelligence (BI)              | Conexión a sistemas, definición de KPIs clave, y desarrollo de paneles (Power BI, Excel) e informes para la eficiencia operativa y toma de decisiones.                                                                                     |
-|                                         | Modelos de Predicción Avanada (Machine Learning)              | Creación de modelos en Python para: Predicción de demanda/ventas (forecast), scoring y segmentación de clientes, y automatización de decisiones de negocio.                                                                            |
-| **Capacitación y Asesoría en Adopción de IA** | Capacitación "IA para Directivos"                             | Conciencia estratégica sobre el potencial de la IA, casos de uso en la industria, implicaciones éticas y cómo liderar la transformación digital. (Sesiones cortas, ejecutivas).                                                              |
-|                                         | Capacitación "Fundamentos de IA para Equipos"                 | Entender qué es la IA, cómo funciona, y cómo interactuar con herramientas de IA en el día a día (para equipos operativos, marketing, ventas).                                                                                             |
-|                                         | Capacitación "Implementación de IA con N8N"                   | Talleres prácticos para equipos de TI o "citizen developers" sobre cómo diseñar e implementar automatizaciones con IA utilizando N8N.                                                                                                    |
-|                                         | Capacitación "Gestión de Datos para IA"                       | Cómo preparar, limpiar y gestionar datos para alimentar modelos de IA y asegurar su calidad.                                                                                                                                           |```
+**Nota Importante sobre Precios:** Los rangos de precios base son estimaciones para el mercado chileno (PYMES y empresas medianas) y pueden variar significativamente según la personalización, complejidad de la integración, volumen de uso y requisitos específicos del cliente. Estos valores son un punto de partida para discusión y ajuste.
 
-# 🚀 Productos de IA para la Eficiencia Empresarial (Oferta Definida)
-
----
-
-## 1. Agente Recepcionista Virtual (Voz/Chat) con Gestión de Calendarios
-
-*   **Descripción Ampliada:** Un asistente de IA que atiende llamadas o chats entrantes para agendamiento de citas, confirmación de reservas, respuestas a consultas frecuentes sobre servicios y horarios, y dirección de llamadas o mensajes. Se integra con sistemas de calendario (ej. Google Calendar, Outlook) y CRM.
-*   **Objetivo de Venta:** Liberar al personal de recepción de tareas repetitivas, reducir costos operativos, mejorar la disponibilidad 24/7 y optimizar la gestión de citas.
-*   **Modelo de Negocio:** Se puede cobrar por implementación (one-time fee) o por una suscripción mensual que incluya uso y mantenimiento.
-
----
-
-## 2. Agente Calificador de Leads con IA (Voz/Chat)
-
-*   **Descripción Ampliada:** Un sistema de IA que, al recibir un nuevo lead (desde publicidad online, formularios web, etc.), inicia una interacción instantánea (llamada automatizada o chat) para verificar el interés del cliente potencial, consultar parámetros clave (ej. presupuesto, necesidad específica, urgencia) y calificar la calidad del lead antes de pasarlo al equipo de ventas humano.
-*   **Objetivo de Venta:** Aumentar la tasa de conversión de leads, optimizar el tiempo del equipo de ventas enfocándolos en leads de alta calidad, y reducir el costo de adquisición de clientes.
-*   **Modelo de Negocio:** Cobro por comisión por lead calificado/convertido o una suscripción mensual por volumen de leads gestionados.
-
----
-
-## 3. Chatbot de Atención al Cliente y Soporte 24/7 (Web/Canales)
-
-*   **Descripción Ampliada:** Un chatbot de IA implementado en la página web o canales de comunicación (WhatsApp, Telegram) para clientes y/o colaboradores. Resuelve consultas frecuentes, guía a través de procesos simples (ej. FAQ, seguimiento de envíos, consulta de saldos), y automatiza el soporte de primer nivel. Es una solución de alto volumen y bajo costo por interacción.
-*   **Objetivo de Venta:** Reducir la carga de tickets del equipo de soporte, mejorar la satisfacción del cliente con respuestas instantáneas 24/7 y disminuir los costos de atención.
-*   **Modelo de Negocio:** Suscripción mensual basada en el volumen de interacciones o usuarios.
-
----
-
-## 4. Sistema Automatizado de Digitalización y Extracción de Datos de Documentos (OCR/IA)
-
-*   **Descripción Ampliada:** Una solución que utiliza OCR avanzado y modelos de IA para escanear, leer y extraer información estructurada de documentos repetitivos (ej. facturas de proveedores, contratos de arriendo/servicio, expedientes médicos, formularios de RRHH). Los datos extraídos se validan y se integran automáticamente en los sistemas de gestión de la empresa (ERP, CRM, software contable) o bases de datos.
-*   **Objetivo de Venta:** Eliminar el ingreso manual de datos, reducir errores, acelerar procesos administrativos, mantener bases de datos actualizadas y mejorar la eficiencia operativa.
-*   **Modelo de Negocio:** Cobro por implementación + suscripción mensual por volumen de documentos procesados.
-
----
-
-## 5. Sistema Inteligente de Clasificación y Routing de Emails/Tickets (IA/NLP)
-
-*   **Descripción Ampliada:** Un sistema de IA que analiza el contenido semántico de emails entrantes, tickets de soporte o mensajes en bandejas compartidas. Los clasifica automáticamente por tema (ej. "reclamo", "cotización", "información de producto"), asigna una prioridad o urgencia, extrae entidades clave (nombre de cliente, ID de producto) y los direcciona al equipo o especialista adecuado, o incluso sugiere respuestas.
-*   **Objetivo de Venta:** Optimizar el flujo de trabajo de comunicación interna, acelerar los tiempos de respuesta al cliente, reducir el tiempo de triaje manual y asegurar que cada comunicación llegue a la persona correcta.
-*   **Modelo de Negocio:** Suscripción mensual basada en el volumen de emails/tickets procesados.
+| Categoría de Servicio                   | Entregable                                                    | Descripción                                                                                                                                                                                                                                          | Rango de Precios Base (CLP) |
+| :-------------------------------------- | :------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------- |
+| **Auditorías de Procesos TI y Flujos de Trabajo** | Auditoría Express de Oportunidades de Automatización          | Un análisis rápido de 3-5 procesos clave del cliente para identificar el potencial de automatización con IA y estimar un ROI inicial. (Producto de entrada, rápido de vender).                                                            | Desde $350.000 a $800.000 (Tarifa Fija) |
+|                                         | Auditoría Integral de Ecosistema Digital                      | Evaluación completa de los sistemas de gestión, flujos de trabajo, uso de datos y madurez digital de la empresa, culminando en un "roadmap" de optimización y automatización con IA.                                                    | Desde $1.500.000 a $5.000.000+ (Tarifa Fija) |
+| **Productos de IA para la Eficiencia Empresarial** | Agente Recepcionista Virtual (Voz/Chat) con Gestión de Calendarios | Asistente de IA que atiende llamadas/chats para agendamiento, confirmación de reservas y consultas de servicios, integrándose con calendarios y CRM. Objetivo: Liberar personal y optimizar la gestión de citas 24/7.                           | Implementación: $500.000-$1.800.000 + Mensual: $150.000-$450.000 |
+|                                         | Agente Calificador de Leads con IA (Voz/Chat)                 | Sistema de IA que, al recibir un lead, interactúa instantáneamente (llamada/chat) para verificar su potencial, consultar parámetros clave y calificar su calidad antes de pasarlo a ventas. Objetivo: Aumentar la conversión de leads. | Implementación: $700.000-$2.500.000 + Mensual: $200.000-$600.000 (o comisión) |
+|                                         | Chatbot de Atención al Cliente y Soporte 24/7 (Web/Canales)   | Chatbot de IA en web/canales para clientes/colaboradores que resuelve consultas frecuentes, guía en procesos simples y automatiza soporte de primer nivel. Objetivo: Reducir tickets y mejorar satisfacción 24/7.                           | Implementación: $400.000-$1.500.000 + Mensual: $100.000-$400.000 |
+|                                         | Sistema Automatizado de Digitalización y Extracción de Datos de Documentos (OCR/IA) | Solución de OCR y IA que escanea, lee y extrae información estructurada de documentos repetitivos, validando e integrando datos en sistemas de gestión. Objetivo: Eliminar ingreso manual y mantener bases de datos actualizadas.         | Implementación: $800.000-$3.000.000 + Mensual: $100.000-$500.000 (por volumen) |
+|                                         | Sistema Inteligente de Clasificación y Routing de Emails/Tickets (IA/NLP) | Sistema de IA que analiza el contenido de emails/tickets entrantes, los clasifica por tema/urgencia y los direcciona al equipo adecuado, o sugiere respuestas. Objetivo: Optimizar flujo de comunicación y tiempos de respuesta.         | Implementación: $600.000-$2.000.000 + Mensual: $120.000-$450.000 |
+| **Analítica de Datos y Business Intelligence** | Estrategia de Datos y Roadmap Digital                         | Definición de una estrategia de datos unificada. Incluye el diagnóstico de madurez digital y el plan de implementación (Roadmap) de las soluciones de Analítica, IA y Automatización.                                                      | (Servicio altamente personalizado, precio bajo cotización) |
+|                                         | Reportes de Gestión y Business Intelligence (BI)              | Conexión a sistemas, definición de KPIs clave, y desarrollo de paneles (Power BI, Excel) e informes para la eficiencia operativa y toma de decisiones.                                                                                     | (Servicio altamente personalizado, precio bajo cotización) |
+|                                         | Modelos de Predicción Avanada (Machine Learning)              | Creación de modelos en Python para: Predicción de demanda/ventas (forecast), scoring y segmentación de clientes, y automatización de decisiones de negocio.                                                                            | (Servicio altamente personalizado, precio bajo cotización) |
+| **Capacitación y Asesoría en Adopción de IA** | Capacitación "IA para Directivos"                             | Conciencia estratégica sobre el potencial de la IA, casos de uso en la industria, implicaciones éticas y cómo liderar la transformación digital. (Sesiones cortas, ejecutivas).                                                              | Desde $800.000 a $2.500.000 (por programa/grupo) |
+|                                         | Capacitación "Fundamentos de IA para Equipos"                 | Entender qué es la IA, cómo funciona, y cómo interactuar con herramientas de IA en el día a día (para equipos operativos, marketing, ventas).                                                                                             | Desde $600.000 a $1.800.000 (por curso/grupo) |
+|                                         | Capacitación "Implementación de IA con N8N"                   | Talleres prácticos para equipos de TI o "citizen developers" sobre cómo diseñar e implementar automatizaciones con IA utilizando N8N.                                                                                                    | Desde $900.000 a $2.800.000 (por taller/grupo) |
+|                                         | Capacitación "Gestión de Datos para IA"                       | Cómo preparar, limpiar y gestionar datos para alimentar modelos de IA y asegurar su calidad.                                                                                                                                           | Desde $700.000 a $2.200.000 (por curso/módulo) |
 
 ---
 
@@ -72,6 +32,8 @@
 *   **Descripción Ampliada:** Un análisis rápido y enfocado de 3 a 5 procesos clave identificados por el cliente. Nuestro equipo evalúa el flujo actual, identifica puntos de dolor y cuellos de botella, y determina el potencial de optimización y automatización con soluciones de IA. El entregable incluye un informe ejecutivo con recomendaciones priorizadas, una estimación preliminar del ROI y un plan de acción sugerido para los procesos más impactantes. Este servicio está diseñado para ser un producto de entrada, rápido de vender y con valor inmediato.
 *   **Objetivo de Venta:** Ofrecer una visión clara y cuantificable del potencial de ahorro y eficiencia que la IA y la automatización pueden generar en el corto plazo, abriendo la puerta a proyectos de implementación de mayor envergadura.
 *   **Modelo de Negocio:** Tarifa fija por auditoría.
+*   **Rango de Precios Base (Tarifa Fija):** Desde **CLP $350.000 a $800.000**.
+*   **Fuentes Comunes de Referencia:** Consultoras de optimización de procesos, empresas de automatización RPA, agencias de transformación digital que ofrecen diagnósticos iniciales.
 
 ---
 
@@ -80,6 +42,62 @@
 *   **Descripción Ampliada:** Una evaluación exhaustiva de todos los sistemas de gestión (ERP, CRM, contable, etc.), plataformas digitales, flujos de trabajo actuales, gestión de datos y el nivel de madurez digital de la empresa. El objetivo es proporcionar una radiografía completa del estado tecnológico y operativo, identificando brechas y oportunidades. El resultado es un "roadmap" estratégico detallado para la optimización, digitalización y automatización con IA, incluyendo recomendaciones de integración y evolución tecnológica a mediano y largo plazo.
 *   **Objetivo de Venta:** Proporcionar a la gerencia una hoja de ruta estratégica y clara para la transformación digital, la optimización de procesos y la adopción de IA, minimizando riesgos y asegurando la coherencia tecnológica.
 *   **Modelo de Negocio:** Tarifa fija por proyecto de auditoría integral.
+*   **Rango de Precios Base (Tarifa Fija por Proyecto):** Desde **CLP $1.500.000 a $5.000.000 o más**.
+*   **Fuentes Comunes de Referencia:** Consultoras de tecnología, empresas de estrategia digital, proveedores de servicios de integración.
+
+---
+
+# 🚀 Productos de IA para la Eficiencia Empresarial (Oferta Definida)
+
+---
+
+## 1. Agente Recepcionista Virtual (Voz/Chat) con Gestión de Calendarios
+
+*   **Descripción Ampliada:** Un asistente de IA que atiende llamadas o chats entrantes para agendamiento de citas, confirmación de reservas, respuestas a consultas frecuentes sobre servicios y horarios, y dirección de llamadas o mensajes. Se integra con sistemas de calendario (ej. Google Calendar, Outlook) y CRM.
+*   **Objetivo de Venta:** Liberar al personal de recepción de tareas repetitivas, reducir costos operativos, mejorar la disponibilidad 24/7 y optimizar la gestión de citas.
+*   **Modelo de Negocio:** Se puede cobrar por implementación (one-time fee) o por una suscripción mensual que incluya uso y mantenimiento.
+*   **Rango de Precios Base (Implementación + Mensualidad):** Implementación: **CLP $500.000 a $1.800.000** + Suscripción Mensual: **CLP $150.000 a $450.000**.
+*   **Fuentes Comunes de Referencia:** Proveedores de chatbots, empresas de IA conversacional, startups de asistentes virtuales.
+
+---
+
+## 2. Agente Calificador de Leads con IA (Voz/Chat)
+
+*   **Descripción Ampliada:** Un sistema de IA que, al recibir un nuevo lead (desde publicidad online, formularios web, etc.), inicia una interacción instantánea (llamada automatizada o chat) para verificar el interés del cliente potencial, consultar parámetros clave (ej. presupuesto, necesidad específica, urgencia) y calificar la calidad del lead antes de pasarlo al equipo de ventas humano.
+*   **Objetivo de Venta:** Aumentar la tasa de conversión de leads, optimizar el tiempo del equipo de ventas enfocándolos en leads de alta calidad, y reducir el costo de adquisición de clientes.
+*   **Modelo de Negocio:** Cobro por comisión por lead calificado/convertido o una suscripción mensual por volumen de leads gestionados.
+*   **Rango de Precios Base (Implementación + Mensualidad/Comisión):** Implementación: **CLP $700.000 a $2.500.000** + Suscripción Mensual: **CLP $200.000 a $600.000** (o comisión por lead calificado: **CLP $5.000 - $20.000**).
+*   **Fuentes Comunes de Referencia:** Agencias de marketing digital con servicios de IA, empresas de automatización de ventas, startups de sales-tech.
+
+---
+
+## 3. Chatbot de Atención al Cliente y Soporte 24/7 (Web/Canales)
+
+*   **Descripción Ampliada:** Un chatbot de IA implementado en la página web o canales de comunicación (WhatsApp, Telegram) para clientes y/o colaboradores. Resuelve consultas frecuentes, guía a través de procesos simples (ej. FAQ, seguimiento de envíos, consulta de saldos), y automatiza el soporte de primer nivel. Es una solución de alto volumen y bajo costo por interacción.
+*   **Objetivo de Venta:** Reducir la carga de tickets del equipo de soporte, mejorar la satisfacción del cliente con respuestas instantáneas 24/7 y disminuir los costos de atención.
+*   **Modelo de Negocio:** Suscripción mensual basada en el volumen de interacciones o usuarios.
+*   **Rango de Precios Base (Implementación + Mensualidad):** Implementación: **CLP $400.000 a $1.500.000** + Suscripción Mensual: **CLP $100.000 a $400.000**.
+*   **Fuentes Comunes de Referencia:** Plataformas de chatbot as a service, empresas de desarrollo de IA conversacional.
+
+---
+
+## 4. Sistema Automatizado de Digitalización y Extracción de Datos de Documentos (OCR/IA)
+
+*   **Descripción Ampliada:** Una solución que utiliza OCR avanzado y modelos de IA para escanear, leer y extraer información estructurada de documentos repetitivos (ej. facturas de proveedores, contratos de arriendo/servicio, expedientes médicos, formularios de RRHH). Los datos extraídos se validan y se integran automáticamente en los sistemas de gestión de la empresa (ERP, CRM, software contable) o bases de datos.
+*   **Objetivo de Venta:** Eliminar el ingreso manual de datos, reducir errores, acelerar procesos administrativos, mantener bases de datos actualizadas y mejorar la eficiencia operativa.
+*   **Modelo de Negocio:** Cobro por implementación + suscripción mensual por volumen de documentos procesados.
+*   **Rango de Precios Base (Implementación + Mensualidad por Volumen):** Implementación: **CLP $800.000 a $3.000.000** + Suscripción Mensual (por volumen): **CLP $100.000 a $500.000**.
+*   **Fuentes Comunes de Referencia:** Proveedores de RPA (Robotic Process Automation), empresas de gestión documental, consultoras de automatización de procesos.
+
+---
+
+## 5. Sistema Inteligente de Clasificación y Routing de Emails/Tickets (IA/NLP)
+
+*   **Descripción Ampliada:** Un sistema de IA que analiza el contenido semántico de emails entrantes, tickets de soporte o mensajes en bandejas compartidas. Los clasifica automáticamente por tema (ej. "reclamo", "cotización", "información de producto"), asigna una prioridad o urgencia, extrae entidades clave (nombre de cliente, ID de producto) y los direcciona al equipo o especialista adecuado, o incluso sugiere respuestas.
+*   **Objetivo de Venta:** Optimizar el flujo de trabajo de comunicación interna, acelerar los tiempos de respuesta al cliente, reducir el tiempo de triaje manual y asegurar que cada comunicación llegue a la persona correcta.
+*   **Modelo de Negocio:** Suscripción mensual basada en el volumen de emails/tickets procesados.
+*   **Rango de Precios Base (Implementación + Mensualidad):** Implementación: **CLP $600.000 a $2.000.000** + Suscripción Mensual: **CLP $120.000 a $450.000**.
+*   **Fuentes Comunes de Referencia:** Empresas de software de service desk, proveedores de automatización de workflows, consultoras de IA.
 
 ---
 
@@ -92,6 +110,8 @@
 *   **Descripción Ampliada:** Programas ejecutivos diseñados para la alta gerencia y tomadores de decisiones. Se enfocan en la visión estratégica de la IA, identificando su potencial disruptivo y transformador en su industria, explorando casos de uso relevantes, discutiendo implicaciones éticas y de gobernanza, y brindando herramientas para liderar la adopción y gestión del cambio tecnológico. Sesiones concisas y de alto nivel.
 *   **Objetivo de Venta:** Empoderar a los líderes empresariales con el conocimiento estratégico necesario para tomar decisiones informadas sobre inversiones en IA, identificar oportunidades de negocio y guiar a sus organizaciones en la era digital.
 *   **Modelo de Negocio:** Tarifa fija por programa (paquete de sesiones), adaptable a grupos o individuales.
+*   **Rango de Precios Base (por Programa/Grupo):** Desde **CLP $800.000 a $2.500.000**.
+*   **Fuentes Comunes de Referencia:** Escuelas de negocio, consultoras de innovación y tecnología, expertos independientes.
 
 ---
 
@@ -100,6 +120,8 @@
 *   **Descripción Ampliada:** Cursos introductorios y prácticos para equipos operativos, de marketing, ventas, RRHH y otras áreas no técnicas. El objetivo es desmitificar la IA, explicar sus principios básicos, cómo funcionan las herramientas de IA más comunes (ej. chatbots, asistentes virtuales, herramientas de generación de contenido) y cómo pueden interactuar con ellas para mejorar su productividad diaria y entender el valor que aportan al negocio.
 *   **Objetivo de Venta:** Aumentar la alfabetización digital y la confianza de los empleados en el uso de herramientas de IA, facilitar la adopción de nuevas tecnologías y mejorar la colaboración entre equipos técnicos y no técnicos.
 *   **Modelo de Negocio:** Tarifa fija por curso/taller (paquete de horas), adaptable a grupos.
+*   **Rango de Precios Base (por Curso/Grupo):** Desde **CLP $600.000 a $1.800.000**.
+*   **Fuentes Comunes de Referencia:** Instituciones de educación continua, plataformas de e-learning corporativo, consultoras de talento.
 
 ---
 
@@ -108,6 +130,8 @@
 *   **Descripción Ampliada:** Talleres intensivos y prácticos dirigidos a equipos de TI, desarrolladores, analistas de procesos o "citizen developers". Se centra en el diseño, configuración e implementación de flujos de automatización que incorporan funcionalidades de Inteligencia Artificial utilizando la plataforma n8n, así como la integración con otros sistemas vía APIs y el uso de modelos de lenguaje (LLMs).
 *   **Objetivo de Venta:** Dotar a los equipos internos de las habilidades técnicas para construir y mantener soluciones de automatización con IA de forma autónoma, reduciendo la dependencia de terceros y acelerando la innovación interna.
 *   **Modelo de Negocio:** Tarifa fija por taller/bootcamp (paquete de días/horas), adaptable a grupos.
+*   **Rango de Precios Base (por Taller/Grupo):** Desde **CLP $900.000 a $2.800.000**.
+*   **Fuentes Comunes de Referencia:** Proveedores de N8N/automatización, consultoras de desarrollo de software, plataformas de capacitación técnica.
 
 ---
 
@@ -116,6 +140,8 @@
 *   **Descripción Ampliada:** Cursos especializados para equipos de análisis de datos, científicos de datos, ingenieros de datos y responsables de calidad de datos. Cubren las mejores prácticas en la preparación, limpieza, etiquetado y gestión de datos para asegurar que los modelos de IA sean alimentados con información de alta calidad, ética y relevante, optimizando su rendimiento y evitando sesgos.
 *   **Objetivo de Venta:** Mejorar la calidad y gobernanza de los datos en la empresa, asegurando que las inversiones en IA generen resultados precisos y confiables al tener una base de datos robusta.
 *   **Modelo de Negocio:** Tarifa fija por curso/módulo, adaptable a grupos.
+*   **Rango de Precios Base (por Curso/Módulo):** Desde **CLP $700.000 a $2.200.000**.
+*   **Fuentes Comunes de Referencia:** Academias de ciencia de datos, consultoras de Business Intelligence, universidades con programas de diplomado.
 
 ---
 
